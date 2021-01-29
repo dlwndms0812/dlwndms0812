@@ -4,7 +4,7 @@
 
 -😄 I'm junior in university in 2021. So I'm learning various things.
 
--📱 Contact me! https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/jeje_0812/
+-📱 Contact me! <img src=https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/jeje_0812/></a>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlwndms0812)](https://solved.ac/dlwndms0812)
 
