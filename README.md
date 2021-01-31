@@ -6,6 +6,8 @@
 
 -📱 Contact me! <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/jeje_0812/" /></a>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwndms0812)](https://github.com/dlwndms0812/github-readme-stats)
+
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlwndms0812)
 
 <!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlwndms0812)](https://solved.ac/dlwndms0812)-->
