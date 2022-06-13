@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=A8C8F9&height=200&section=header)
+
 ### Hi there, I'm Jueun!👋
 
 -🌱 Techs that I've used at least once <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -7,7 +9,9 @@
 
 -📱 Contact me! <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/jeje_0812/" /></a>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlwndms0812)](https://solved.ac/dlwndms0812)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwndms0812)](https://github.com/dlwndms0812/github-readme-stats)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dlwndms0812)](https://solved.ac/dlwndms0812)
+![Footer](https://capsule-render.vercel.app/api?type=slice&color=A8C8F9&height=200&section=footer)
