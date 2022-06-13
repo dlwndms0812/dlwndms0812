@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=A8C8F9&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=soft&color=A8C8F9&height=200&section=header)
 
 ### Hi there, I'm Jueun!👋
 
@@ -14,4 +14,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwndms0812)](https://github.com/dlwndms0812/github-readme-stats)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=A8C8F9&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=A8C8F9&height=200&section=footer)
