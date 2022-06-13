@@ -17,7 +17,8 @@
   😄 I'm 23 in 2022. I wanna be Back-End developer.
 <br/>
 <br/>
-📱 Contact me! <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/jeje_0812/" /></a> <img src="http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&link=mailto:dlwndms0812@naver.com" /></a>
+📱 Contact me! 
+  [![Naver Badge](http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&link=mailto:dlwndms0812@naver.com)](mailto:dlwndms0812@naver.com)
 <br/>
 <br/>
 <br/>
