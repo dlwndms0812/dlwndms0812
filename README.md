@@ -21,6 +21,9 @@
   [![Naver Badge](http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&link=mailto:dlwndms0812@naver.com)](mailto:dlwndms0812@naver.com)
 <br/>
 <br/>
+📘 My Blog [![Tistory Badge](http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://dev-juelee.tistory.com)]
+
+<br/>
 <br/>
 
   ⚙️Stack⚙️
