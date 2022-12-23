@@ -17,7 +17,7 @@
   😄 I'm 23 in 2022. I wanna be Back-End developer.
 <br/>
   <br/>
-  <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a> &nbsp;I'm 42Seoul cadet
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=42&logoColor=white"/></a> &nbsp;I'm 42Seoul cadet
 <br/>
 <br/>
 📘 It's my [Blog](https://dev-juelee.tistory.com) 
